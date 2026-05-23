@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Azure Functions
+.vscode/
+bin/
+obj/
+local.settings.json
